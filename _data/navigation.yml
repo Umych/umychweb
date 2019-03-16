@@ -2,30 +2,30 @@
 
 - title: Home
   url: /
-  excerpt: "Back to the index page"
-  image: 400x250.gif
+  excerpt: "Back to the index page."
+  image: sidebar/home.png
 
 - title: Animations
   url: /animations/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  excerpt: "Examples of animation sequences."
+  image: sidebar/animations.png
 
 - title: Rigging
   url: /rigging/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+  excerpt: "Rigging and scripts."
+  image: sidebar/rigging.png
 
 - title: Unreal Engine
   url: /unreal/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+  excerpt: "Unreal workflow."
+  image: sidebar/unreal.png
 
 - title: Projects
   url: /projects/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+  excerpt: "Past projects."
+  image: sidebar/projects.png
 
 - title: Contact
   url: /contact/
   excerpt: "Contact Denys (or don't)"
-  image: 400x250.gif
+  image: sidebar/contact.png
