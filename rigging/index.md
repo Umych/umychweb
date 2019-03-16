@@ -1,17 +1,19 @@
 ---
-layout: archive
-title: "Sample Media Gallery"
-date: 2014-05-30T11:40:45-04:00
+layout: article
+title: "Rigging"
+date: 2018-05-30T11:40:45-04:00
 modified:
 excerpt: "An archive of media posts, perfect for portfolios and galleries."
-tags: []
+tags: [rigging]
 image:
-  feature:
-  teaser:
+  feature: rigging/rig_cover.png
+  teaser: rigging/rig_cover_teaser.png
 ---
 
-<div class="tiles">
-{% for post in site.categories.media %}
-  {% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+The code for rigging dock is done in Maya’s MEL scripting language. Rigging Dock allows for modular rigging of different body parts. It uses template skeleton chain that could be applied to a vast range of different bipedal models.
+
+The setup includes IK/FK switch which allows more complex arms manipulations. Rigging Dock allows for seamless transition between IK to FK and vise versa. 
+
+The same applies to Quadruped Rig layout and Skeleton template that goes along with it. 
+
+
