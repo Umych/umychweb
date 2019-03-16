@@ -5,7 +5,7 @@ description: "Character Animator. Cinematic Artist."
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: "https://mmistakes.github.io/skinny-bones-jekyll"
+url: "http://umych.com"
 feed:
   path: atom.xml
 
@@ -26,16 +26,12 @@ gems:
 
 # Site owner
 owner:
-  name: "Michael Rose"
-  web: "https://mademistakes.com"
-  twitter: "mmistakes"
-  bio: "Just another boring, tattooed, time traveling designer."
+  name: "Denys Antipenko"
+  web: "http://umych.com"
+  twitter: "umych_sir"
+  bio: "Just another boring character animator."
   avatar: "bio-photo.jpg" # 160x160 px image for author byline
-  google:
-    plus: "+MichaelRoseDesign"
-    ad-client: "ca-pub-7328585512091257"
-    ad-slot: 3049671934sfa
-  disqus-shortname:
+  # disqus-shortname:
 
 
 include:
@@ -63,3 +59,10 @@ exclude:
   - package.json
   - spec
   - tmp
+  - Dockerfile
+  - docker-compose.yml
+  - .nvmrc
+  - Gemfile.lock
+  - package-lock.json
+  - start.sh
+  - .dockerignore

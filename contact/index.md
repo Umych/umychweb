@@ -12,6 +12,10 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
+Feel free to contact me when you're lonely or need some butt sex.
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+Address: Orlando, FL, USA
+email: denys@umych.com
+phone: 123-456-7890
+
+Always open to new opportunities 😘
