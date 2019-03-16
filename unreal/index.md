@@ -6,6 +6,7 @@ modified:
 excerpt: "An archive of media posts, perfect for portfolios and galleries."
 tags: []
 image:
+  path: http://mademistakes.com/icon.jpg
   feature:
   teaser:
 ---

@@ -8,6 +8,7 @@ excerpt: "Demoing the various thumbnail grid styles."
 tags: []
 ads: true
 image:
+  path:
   feature:
   teaser:
 ---

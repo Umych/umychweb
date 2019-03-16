@@ -250,6 +250,7 @@ The post and page layouts make the assumption that the feature images live in th
 
 ```yaml
 image:
+  path:
   feature: feature-image-filename.jpg
 ```
 
@@ -257,6 +258,7 @@ To add attribution to a feature image use the following YAML front matter on pos
 
 ```yaml
 image:
+  path:
   feature: feature-image-filename.jpg
   credit: Michael Rose #name of the person or site you want to credit
   creditlink: https://mademistakes.com #url to their site or licensing

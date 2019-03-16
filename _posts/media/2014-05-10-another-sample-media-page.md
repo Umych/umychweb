@@ -6,6 +6,7 @@ excerpt: "Custom written post descriptions are the way to go... if you're not la
 ads: true
 share: false
 image:
+  path: http://mademistakes.com/icon.jpg
   feature: branch-1600x800.jpg
   teaser: branch-400x250.jpg
   credit: Michael Rose
