@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "Denys Antipenko"
-description: "Character Animator. Cinematic Artist."
+description: "Character Animator."
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -29,7 +29,7 @@ owner:
   name: "Denys Antipenko"
   web: "http://umych.com"
   twitter: "umych_sir"
-  bio: "Just another boring character animator."
+  bio: "Self taught characrer animator. "
   avatar: "bio-photo.jpg" # 160x160 px image for author byline
   # disqus-shortname:
 
