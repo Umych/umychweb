@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Locomotion"
+title: "Locomotion Animations"
 categories: animations
 excerpt: "A ton of text to test readability."
 tags: [animation]
@@ -9,6 +9,6 @@ image:
   teaser: posts/animations/locomotion_teaser.jpg
 ---
 
-Here will be a video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CNkYE3PHh3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Text here.
