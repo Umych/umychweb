@@ -2,7 +2,7 @@
    Tiles
    ========================================================================== */
 
-.tile {
+@mixin tile {
   @include outer-container;
   margin-bottom: $gutter;
   @include media($micro) {
@@ -41,5 +41,17 @@
         background: rgba($base-color,0.2);
       }
     }
+  }
+}
+
+.tile {
+  @include tile();
+}
+
+.tile-big {
+  @include tile();
+  @include media(new-breakpoint(min-width em(480) 12)) {
+    @include span-columns(4);
+    @include omega(3n);
   }
 }
