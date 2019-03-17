@@ -12,8 +12,6 @@ share: false
 ads: false
 ---
 
-Feel free to contact me when you're lonely or need some butt sex.
-
 Address: Orlando, FL, USA
 email: denys@umych.com
 phone: 123-456-7890
