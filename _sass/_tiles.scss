@@ -45,13 +45,13 @@
 }
 
 .tile {
-  @include tile();
+  @include tile;
 }
 
 .tile-big {
-  @include tile();
+  @include tile;
   @include media(new-breakpoint(min-width em(480) 12)) {
-    @include span-columns(4);
-    @include omega(3n);
+    @include span-columns(6);
+    @include omega(2n);
   }
 }
