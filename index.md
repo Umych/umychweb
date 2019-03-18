@@ -5,6 +5,13 @@ image:
   feature: index_bg.jpg
 ---
 
+## Demo Reel
+
+<iframe onload="this.width=screen.width;this.height=screen.height;" src="https://www.youtube-nocookie.com/embed/eJqufX-xZBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+The Demo Reel is a combination of past project I took part in and animation I created on the side in spare time.
+
 <div class="tiles">
 
 <div class="tile">
@@ -29,9 +36,3 @@ image:
 
 </div><!-- /.tiles -->  
 
-## Demo Reel
-
-<iframe onload="this.width=screen.width;this.height=screen.height;" src="https://www.youtube-nocookie.com/embed/eJqufX-xZBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-The Demo Reel is a combination of past project I took part in and animation I created on the side in spare time.
