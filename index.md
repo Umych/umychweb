@@ -24,14 +24,14 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Projects</h2>
-  <p class="post-excerpt">I worked on multiple projects while attending University of Central Florida including  <a href="http://www.umych.com/projects/last-spark/">The Last Sperk</a>, <a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a>, and most recently <a href="http://www.umych.com/projects/reaver/">Reaver</a>.</p>
+  <p class="post-excerpt">I worked on multiple projects while attending University of Central Florida including  <a href="http://www.umych.com/projects/last-spark/">The Last Spark</a>, <a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a>, and most recently <a href="http://www.umych.com/projects/reaver/">Reaver</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->  
 
 ## Demo Reel
 
-<iframe onload="this.width=screen.width;this.height=screen.height;" src="https://www.youtube-nocookie.com/embed/1D0rZ6AOG6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe onload="this.width=screen.width;this.height=screen.height;" src="https://www.youtube-nocookie.com/embed/eJqufX-xZBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Some text here if I am allowed to leave some. Manamekeff

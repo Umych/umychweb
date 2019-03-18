@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "The Last Spark"
+title:  "Animation Blueprint"
 categories: unreal
 modified: 2016-06-01T16:28:57-04:00
 image:
