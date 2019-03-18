@@ -9,22 +9,22 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Animations</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <p class="post-excerpt">I make character animation for video games. Animations include locomotion, root motion combat, item and character interactions. Additionally, I create animation for cinematics and work with cameras both in Maya and game engines.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Character Rigging</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <p class="post-excerpt">I create custom rigs for bipedal and quadruped characters. I wrote a MEL script along with accompanying UI within Maya that helps to speed up rigging process. Script allows for modular rigging of body parts like hands feet or body and allows for quick tweaks and edits. Script allows includes IK/FK switch.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Tech Artist</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <p class="post-excerpt">I worked as a tech artist on myliple projects in Unreal Engine 4. I took part in every part of the pipeline from importing assets generated in Maya to workign with animation blueprints and animation sequences.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Projects</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <p class="post-excerpt">I worked on multiple projects while attending University of Central Florida including  <a href="http://www.umych.com/projects/last-spark/">The Last Sperk</a>, <a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a>, and most recently <a href="http://www.umych.com/projects/reaver/">Reaver</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->  
@@ -32,3 +32,6 @@ image:
 ## Demo Reel
 
 <iframe onload="this.width=screen.width;this.height=screen.height;" src="https://www.youtube-nocookie.com/embed/1D0rZ6AOG6E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Some text here if I am allowed to leave some. Manamekeff
