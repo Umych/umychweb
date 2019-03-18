@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Character/Item Interaction"
-categories: animations
+categories: animation
 excerpt: "A ton of text to test readability."
 tags: [animation]
 image:

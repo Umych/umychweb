@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "About"
+title: "Contact"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
 excerpt: "Umych animations about page."
@@ -14,4 +14,5 @@ ads: false
 
 email: denys@umych.com
 
-Always ready to learn something new.
+Linkedin: <a href="https://www.linkedin.com/in/denys-antipenko-25b9a48a/">Denys Antipenko</a>
+
