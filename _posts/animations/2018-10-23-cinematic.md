@@ -1,7 +1,8 @@
 ---
 layout: article
-title: "Cinematic Animations"
+title: "Cinematics"
 categories: animations
+excerpt: "Animation for cutscenes and camera work."
 tags: [animation]
 image:
   feature: posts/animations/cinematic.jpg

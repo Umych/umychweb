@@ -9,7 +9,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Animations</h2>
-  <p class="post-excerpt">I make character animation for video games. Animations include locomotion, root motion combat, item and character interactions. Additionally, I create animation for cinematics and work with cameras both in Maya and game engines.</p>
+  <p class="post-excerpt">Self taught character animator, focus on creating character animations for video games. Animations include locomotion, root motion combat, item and character interactions. Additionally, I create animation for cinematics and work with cameras both in Maya and game engines.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -18,13 +18,13 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Tech Artist</h2>
-  <p class="post-excerpt">I worked as a tech artist on myliple projects in Unreal Engine 4. I took part in every part of the pipeline from importing assets generated in Maya to workign with animation blueprints and animation sequences.</p>
+  <h2 class="post-title">Unreal Tech Art</h2>
+  <p class="post-excerpt">I worked as a tech artist on multiple projects in Unreal Engine 4. I took part in every part of the pipeline from importing assets generated in Maya to workign with animation blueprints and animation sequences.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Projects</h2>
-  <p class="post-excerpt">I worked on multiple projects while attending University of Central Florida including  <a href="http://www.umych.com/projects/last-spark/">The Last Spark</a>, <a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a>, and most recently <a href="http://www.umych.com/projects/reaver/">Reaver</a>.</p>
+  <p class="post-excerpt">I worked on multiple projects while attending University of Central Florida including <a href="http://www.umych.com/projects/last-spark/">The Last Spark</a>, <a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a>, and most recently <a href="http://www.umych.com/projects/reaver/">Reaver</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->  
@@ -34,4 +34,4 @@ image:
 <iframe onload="this.width=screen.width;this.height=screen.height;" src="https://www.youtube-nocookie.com/embed/eJqufX-xZBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Some text here if I am allowed to leave some. Manamekeff
+The Demo Reel is a combination of past project I took part in and animation I created on the side in spare time.

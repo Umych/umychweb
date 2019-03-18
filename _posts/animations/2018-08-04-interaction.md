@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Locomotion"
+title: "Character/Item Interaction"
 categories: animations
-excerpt: "Momenent Animation and Blending."
+excerpt: "A ton of text to test readability."
 tags: [animation]
 image:
   feature: posts/animations/locomotion.jpg

@@ -16,4 +16,4 @@ The setup includes IK/FK switch which allows more complex arms manipulations. Ri
 
 The same applies to Quadruped Rig layout and Skeleton template that goes along with it. 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2evuV3w3sJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
