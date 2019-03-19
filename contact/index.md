@@ -14,5 +14,8 @@ ads: false
 
 email: denys@umych.com
 
-Linkedin: <a href="https://www.linkedin.com/in/denys-antipenko-25b9a48a/">Denys Antipenko</a>
+LinkedIn: [Denys Antipenko](https://www.linkedin.com/in/denys-antipenko-25b9a48a/)
+
+Link: [Link](/assets/Denys_Antipenko.pdf)
+
 
