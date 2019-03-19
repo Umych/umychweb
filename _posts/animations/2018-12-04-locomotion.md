@@ -5,7 +5,6 @@ categories: animations
 excerpt: "Momenent Animation and Blending."
 tags: [animation]
 image:
-  feature: posts/animations/locomotion_teaser.png
   teaser: posts/animations/locomotion_teaser.png
 ---
 
