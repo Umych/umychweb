@@ -4,6 +4,7 @@ title:  "The Last Spark"
 categories: projects
 modified: 2016-06-01T16:28:57-04:00
 image:
+  feature: posts/projects/last_spark_cover.png
   teaser: posts/projects/last_spark_logo.png
 ---
 
