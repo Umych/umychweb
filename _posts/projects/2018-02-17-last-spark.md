@@ -4,8 +4,8 @@ title:  "The Last Spark"
 categories: projects
 modified: 2016-06-01T16:28:57-04:00
 image:
-  feature: projects/last_spark_logo.png
-  teaser: projects/last_spark_logo.png
+  feature: posts/projects/last_spark_logo.png
+  teaser: posts/projects/last_spark_logo.png
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
