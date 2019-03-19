@@ -4,28 +4,14 @@ title:  "The Last Spark"
 categories: projects
 modified: 2016-06-01T16:28:57-04:00
 image:
-  feature: posts/projects/last_spark_logo.png
   teaser: posts/projects/last_spark_logo.png
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+The Last Spark is an experience of a small hero restoring a once-lively world. Using platforming mechanics, players traverse an environment and save it from a dark corruption. In The Last Spark, there are enemies to overcome or save, items to collect, and secrets to discover. Progression of the game results in a dynamic shift from shadowy, sad environments to fantastically lit, colorful, and loveable ones as you restore them to former their glory.
 
-## Sample Heading
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zCTnV-nBZq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Sample Heading 2
+Game Design Workshop - DIG4725 SUMMER 2018
+University of Central Florida
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
+itch.io link: <a href="https://final-hour-studios.itch.io/the-last-spark">The Last Spark</a>
