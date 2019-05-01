@@ -11,17 +11,15 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Animations</h2>
-  <p class="post-excerpt">Self taught character animator, focus on creating animations sequences for video games. Animations include advanced locomotion, root motion combat, item and character interactions. Additionally, I create animation for cinematics and work with cameras both in Maya and Unreal.</p>
+  <p class="post-excerpt">I specialize in realisting animation for video game characters. 
+  - Cycllical animation for locomotion, idles, object interactions. 
+  - Rootmotion driven actions and combat. 
+  - Inerationc between characters and in animation for game cinematics.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Character Rigging</h2>
+  <h2 class="post-title">Character Rigging / Tech Art</h2>
   <p class="post-excerpt">I create custom rigs for bipedal and quadruped characters; designed and wrote a script and UI component for it in Maya's MEL scripting language. The script allows for modular rigging of various body parts independently. IK/FK switches are integrated.</p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">Unreal Tech Art</h2>
-  <p class="post-excerpt">I worked as a tech artist on multiple projects in Unreal Engine 4. I took part in every part of the pipeline from importing assets generated in Maya to working with animation blueprints and animation sequences.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
