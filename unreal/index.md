@@ -12,5 +12,3 @@ tags: [unreal]
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-
-<h2>Heading level 2</h2>

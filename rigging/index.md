@@ -26,8 +26,6 @@ The same applies to Quadruped Rig layout and Skeleton template that goes along w
 
 ## Tech Art 
 
-<h2>Heading level 2</h2>
-
 <div class="tiles">
 {% for post in site.categories.unreal %}
   {% include post-grid.html %}
