@@ -1,13 +1,13 @@
 ---
 layout: article
-title: "Rigging/Tech Art"
-date: 2018-05-30T11:40:45-04:00
+title: "Tech Art"
+date: 2019-05-02T17:46:45-04:00
 modified:
-excerpt: "An archive of media posts, perfect for portfolios and galleries."
-tags: [rigging]
+excerpt: "Examples of Technical Artist contributions to past projects."
+tags: [techart]
 image:
-  feature: rigging/rig_cover.jpg
-  teaser: rigging/rig_cover_teaser.jpg
+  feature: techart/rig_cover.jpg
+  teaser: techart/rig_cover_teaser.jpg
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2evuV3w3sJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,7 +24,7 @@ The same applies to Quadruped Rig layout and Skeleton template that goes along w
 {% endfor %}
 </div><!-- /.tiles -->
 
-## Tech Art 
+<br><h2>Unreal Engine 4</h2>
 
 <div class="tiles">
 {% for post in site.categories.unreal %}
