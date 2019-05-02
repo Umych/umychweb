@@ -24,3 +24,11 @@ The same applies to Quadruped Rig layout and Skeleton template that goes along w
 {% endfor %}
 </div><!-- /.tiles -->
 
+<div class="tiles">
+{% for post in site.categories.rigging %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
+
+
+
