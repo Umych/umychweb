@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Rigging / Tech Art"
+title: "Rigging/Tech Art"
 date: 2018-05-30T11:40:45-04:00
 modified:
 excerpt: "An archive of media posts, perfect for portfolios and galleries."
