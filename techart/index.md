@@ -24,7 +24,7 @@ The same applies to Quadruped Rig layout and Skeleton template that goes along w
 {% endfor %}
 </div><!-- /.tiles -->
 
-<br><h2>Unreal Engine 4</h2>
+<h2>Unreal Engine 4</h2>
 
 <div class="tiles">
 {% for post in site.categories.unreal %}
