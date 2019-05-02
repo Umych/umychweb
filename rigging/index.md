@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Rigging"
+title: "Rigging / Tech Art"
 date: 2018-05-30T11:40:45-04:00
 modified:
 excerpt: "An archive of media posts, perfect for portfolios and galleries."
@@ -19,13 +19,15 @@ The setup includes IK/FK switch which allows more complex arms manipulations. Ri
 The same applies to Quadruped Rig layout and Skeleton template that goes along with it. 
 
 <div class="tiles">
-{% for post in site.categories.unreal %}
+{% for post in site.categories.rigging %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 
+## Tech Art 
+
 <div class="tiles">
-{% for post in site.categories.rigging %}
+{% for post in site.categories.unreal %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

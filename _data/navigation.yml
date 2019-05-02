@@ -10,15 +10,10 @@
   excerpt: "Examples of animation sequences."
   image: sidebar/animation.png
 
-- title: Rigging
+- title: Rigging / Tech Art
   url: /rigging/
-  excerpt: "Rigging and scripts."
+  excerpt: "Rigging and Tech Art."
   image: sidebar/rigging.png
-
-- title: Unreal Engine
-  url: /unreal/
-  excerpt: "Unreal workflow."
-  image: sidebar/unreal.png
 
 - title: Projects
   url: /projects/
@@ -27,5 +22,5 @@
 
 - title: Contact
   url: /contact/
-  excerpt: "Contact Denys (or don't)"
+  excerpt: "Contact Denys (or don't)."
   image: sidebar/contact.png
