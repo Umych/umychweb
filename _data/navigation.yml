@@ -10,15 +10,15 @@
   excerpt: "Animation Examples."
   image: sidebar/animation.png
 
-- title: Rigging/Tech Art
-  url: /rigging/
-  excerpt: "Rigging and Tech Art."
-  image: sidebar/rigging.png
-
 - title: Projects
   url: /projects/
   excerpt: "Past Projects."
   image: sidebar/projects.png
+
+- title: Rigging/Tech Art
+  url: /rigging/
+  excerpt: "Rigging and Tech Art."
+  image: sidebar/rigging.png
 
 - title: Contact
   url: /contact/
