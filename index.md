@@ -11,9 +11,9 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Animations</h2>
-  <p class="post-excerpt">I specialize in realisting animation for video game characters. 
-  - Cycllical animation for locomotion, idles, object interactions. 
-  - Rootmotion driven actions and combat. 
+  <p class="post-excerpt">I specialize in realisting animation for video game characters. <br> 
+  - Cycllical animation for locomotion, idles, object interactions. <br>
+  - Rootmotion driven actions and combat. <br>
   - Inerationc between characters and in animation for game cinematics.</p>
 </div><!-- /.tile -->
 
