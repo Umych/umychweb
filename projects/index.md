@@ -7,6 +7,6 @@ tags: []
 ---
 <div class="tiles">
 {% for post in site.categories.projects %}
-  {% include post-grid.html %}
+  {% include post-big-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
