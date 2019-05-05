@@ -1,0 +1,18 @@
+<div class="tiles">
+
+  {% if include.rtl != "yes" %}
+    <div class="tile-big">
+      <img src="{{ include.image }}" />
+    </div>
+  {% endif %}
+
+  <div class="tile-big">
+    {{ include.content | markdownify }}
+  </div>
+
+  {% if include.rtl == "yes" %}
+    <div class="tile-big">
+      <img src="{{ include.image }}" />
+    </div>
+  {% endif %}
+</div>

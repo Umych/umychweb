@@ -2,15 +2,17 @@
    Tiles
    ========================================================================== */
 
-@mixin tile {
+.tiles {
+  @include clearfix;
+}
+
+@mixin tile($num_columns: 4) {
   @include outer-container;
   margin-bottom: $gutter;
-  @include media($micro) {
-    @include fill-parent;
-  }
-  @include media(new-breakpoint(min-width em(480) 12)) {
-    @include span-columns(3);
-    @include omega(4n);
+  @include fill-parent;
+  @include media(new-breakpoint(min-width em(780) 12)) {
+    @include span-columns(12 / $num_columns);
+    @include omega(#{$num_columns + 'n'});
   }
   .entry-date {
     @include font-size(16,no);
@@ -45,21 +47,13 @@
 }
 
 .tile {
-  @include tile;
+  @include tile(4);
 }
 
 .tile-medium {
-  @include tile;
-  @include media(new-breakpoint(min-width em(480) 12)) {
-    @include span-columns(4);
-    @include omega(3n);
-  }
+  @include tile(3);
 }
 
 .tile-big {
-  @include tile;
-  @include media(new-breakpoint(min-width em(480) 12)) {
-    @include span-columns(6);
-    @include omega(2n);
-  }
+  @include tile(2);
 }
