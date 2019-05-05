@@ -22,6 +22,6 @@ image:
 
 **itch.io link:** <a href="https://final-hour-studios.itch.io/the-last-spark">The Last Spark</a>
 
-<hr />
+___
 
 ## Animations for The Last Spark
