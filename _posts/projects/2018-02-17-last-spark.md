@@ -9,9 +9,19 @@ image:
   teaser: posts/projects/last_spark/spark_logo.png
 ---
 
-The Last Spark is an experience of a small hero restoring a once-lively world. Using platforming mechanics, players traverse an environment and save it from a dark corruption. In The Last Spark, there are enemies to overcome or save, items to collect, and secrets to discover. Progression of the game results in a dynamic shift from shadowy, sad environments to fantastically lit, colorful, and loveable ones as you restore them to former their glory.
+**Role:** Character Animation and Tech Artist
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zCTnV-nBZq8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Tools:** Maya, Unreal Engine 4
 
+**Contributions:** Designed and created a rig for the main character - Spark, his cloth cape and enemy characters. Subsequently, created animation for all characters and implemented them in Unreal Engine 4.
 
-itch.io link: <a href="https://final-hour-studios.itch.io/the-last-spark">The Last Spark</a>
+**About:** The Last Spark is an experience of a small hero restoring a once-lively world. Using platforming mechanics, players traverse an environment and save it from a dark corruption. In The Last Spark, there are enemies to overcome or save, items to collect, and secrets to discover. Progression of the game results in a dynamic shift from shadowy, sad environments to fantastically lit, colorful, and loveable ones as you restore them to former their glory.
+
+**Trailer:**
+<iframe src="https://player.vimeo.com/video/334234733" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+**itch.io link:** <a href="https://final-hour-studios.itch.io/the-last-spark">The Last Spark</a>
+
+<hr />
+
+## Animations for The Last Spark
