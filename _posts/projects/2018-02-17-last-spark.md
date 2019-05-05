@@ -2,8 +2,7 @@
 layout: article
 title:  "The Last Spark"
 categories: projects
-excerpt: "Third Person Platrformer, Action-Adventure. 
-          Role: Character Animator, Tech Artist."
+excerpt: "Summer 2018"
 modified: 2016-06-01T16:28:57-04:00
 image:
   feature: posts/projects/last_spark/spark_cover.png
