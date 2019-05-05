@@ -6,13 +6,13 @@
   @include clearfix;
 }
 
-@mixin tile($num_columns: 4) {
+@mixin tile($num_columns: 4, $omega_selector: 4n) {
   @include outer-container;
   margin-bottom: $gutter;
   @include fill-parent;
   @include media(new-breakpoint(min-width em(780) 12)) {
     @include span-columns(12 / $num_columns);
-    @include omega(#{$num_columns + 'n'});
+    @include omega($omega_selector);
   }
   .entry-date {
     @include font-size(16,no);
@@ -47,13 +47,13 @@
 }
 
 .tile {
-  @include tile(4);
+  @include tile(4, 4n);
 }
 
 .tile-medium {
-  @include tile(3);
+  @include tile(3, 3n);
 }
 
 .tile-big {
-  @include tile(2);
+  @include tile(2, 2n);
 }
