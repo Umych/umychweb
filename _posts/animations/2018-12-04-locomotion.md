@@ -2,7 +2,7 @@
 layout: article
 title: "Locomotion"
 categories: animations
-excerpt: "Momenent Animation and Blending."
+excerpt: "Movenent animations and blending."
 tags: [animation]
 image:
   teaser: posts/animations/locomotion_teaser.png

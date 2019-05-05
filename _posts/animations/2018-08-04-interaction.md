@@ -1,12 +1,11 @@
 ---
 layout: article
-title: "Character/Item Interaction"
+title: "Item Interaction"
 categories: animations
-excerpt: "A ton of text to test readability."
+excerpt: "Use of in-game items/weapons."
 tags: [animation]
 image:
-  feature: posts/animations/locomotion.jpg
-  teaser: posts/animations/locomotion_teaser.jpg
+  teaser: posts/animations/interaction_teaser.png
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CNkYE3PHh3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
