@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Character/Item Interaction"
+title: "Finishers"
 categories: animations
-excerpt: "A ton of text to test readability."
+excerpt: "Animation Sequences for Reaver"
 tags: [animation]
 image:
   feature: posts/animations/locomotion.jpg
