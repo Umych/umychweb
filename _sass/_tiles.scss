@@ -48,6 +48,14 @@
   @include tile;
 }
 
+.tile-medium {
+  @include tile;
+  @include media(new-breakpoint(min-width em(480) 12)) {
+    @include span-columns(4);
+    @include omega(3n);
+  }
+}
+
 .tile-big {
   @include tile;
   @include media(new-breakpoint(min-width em(480) 12)) {
