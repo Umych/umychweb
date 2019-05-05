@@ -17,6 +17,8 @@
 	.inner-wrap {
 		@include outer-container;
 	}
+	background-color: $masthead-bgcolor;
+	border-bottom: 2px solid $masthead-bottom-border-color;
 }
 .site-title {
 	@include row;

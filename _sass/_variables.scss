@@ -32,6 +32,7 @@ $caption-color                : mix($white, $text-color, 25%);
 $base-color                  	: #343434;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
+$hr-color                     : #c4c4c4;
 $link-color                  	: #222;
 
 $primary-color               	: $black;
@@ -108,3 +109,5 @@ $badge-font-color              : $white;
    ========================================================================== */
 
 $masthead-height: $button-size * 2;
+$masthead-bgcolor: #bfc1e9;
+$masthead-bottom-border-color: #898cd6;
