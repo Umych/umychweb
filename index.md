@@ -29,7 +29,7 @@ image:
   
   <div class="tile-medium">
     <h2 class="post-title">Projects</h2>
-    <p class="post-excerpt">My relatively big, full production pipeline project I worked on include: <a href="http://www.umych.com/projects/last-spark/">The Last Spark</a>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, and most recently <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>. <br>
+    <p class="post-excerpt">My relatively big, full production pipeline projects I worked on include: <a href="http://www.umych.com/projects/last-spark/">The Last Spark</a>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, and most recently <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>. <br>
     <br>
     All projects were part of DIG4725 class at University of Central Florida. Teams for each project consisted of 13 - 15 people and projects lasted 16 weeks, with Last Spark being the shortest, was done in 8 weeks. </p>
     
