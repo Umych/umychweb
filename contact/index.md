@@ -16,6 +16,6 @@ email: denys@umych.com
 
 LinkedIn: [Denys Antipenko](https://www.linkedin.com/in/denys-antipenko-25b9a48a/)
 
-Resume: [Link](/assets/Denys_Antipenko.pdf)
+Resume: [Link](/assets/Antipenko_Resume.pdf)
 
 
