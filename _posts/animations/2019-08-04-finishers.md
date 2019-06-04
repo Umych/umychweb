@@ -8,9 +8,7 @@ image:
   teaser: posts/animations/finishers_teaser.png
 ---
 
-Animations presented are part of Reaver projects. See <a href="http://umych.com/projects/reaver/">Reaver</a> page for details.
-
-### Finishers
+Animations presented are part of <strong><a href="http://umych.com/projects/reaver/">Reaver</a></strong> projects. See Reaver's project page for more details.
 
 There are five finishers made for Reaver. Finishers are meant to be triggered on all enemies that share the same skeletal structure. Enemy portion of the animation sequence is later retargeted on all other enemy types in engine.
 Finishers are meant to be flashy, yet grounded and relatively realistic way for the main character to finish an enemy and restore health in the process. 
