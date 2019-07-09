@@ -32,5 +32,6 @@ image:
     <p class="post-excerpt">My past projects were part of Game Dev Knights club and classes at University of Central Florida. Teams for each project consisted of 13 - 15 people, consisted of full scale production pipeline and lasted 16 weeks on average. Projects I worked on include: <strong><a href="http://www.umych.com/projects/last-spark/">The Last Spark</a></strong>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, and most recently <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>.<br>
     <br> 
   </div><!-- /.tile -->
+  
 </div><!-- /.tiles -->  
 
