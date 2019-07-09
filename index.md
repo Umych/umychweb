@@ -33,8 +33,3 @@ image:
     <p class="post-excerpt">My past projects were part of Game Dev Knights club and classes at University of Central Florida. Teams for each project consisted of 13 - 15 people, consisted of full scale production pipeline and lasted 16 weeks on average. Projects I worked on include: <strong><a href="http://www.umych.com/projects/last-spark/">The Last Spark</a></strong>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, and most recently <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>. <br>
     <br>
     All projects were part of DIG4725 class at University of Central Florida. Teams for each project consisted of 13 - 15 people and projects lasted 16 weeks, with Last Spark being the shortest, was done in 8 weeks. </p>
-    
-  </div><!-- /.tile -->
-
-</div><!-- /.tiles -->  
-
