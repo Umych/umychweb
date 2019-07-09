@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Item Interaction"
-categories: animations
+categories: animation
 excerpt: "Use of in-game items/weapons."
 tags: [animation]
 image:

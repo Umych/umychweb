@@ -21,17 +21,16 @@ image:
   
   <div class="tile-medium">
     <h2 class="post-title">Technical Artist</h2>
-    <p class="post-excerpt">I create custom rigs for bipedal and quadruped characters; designed and wrote a script and UI component for it in Maya's MEL scripting language. The script allows for modular rigging of various body parts independently. IK/FK switches are integrated.
-    I worked as a tech artist on multiple projects in Unreal Engine 4. I took part in every part of the pipeline from importing assets generated in Maya to working with animation blueprints and animation sequences. <br>
+    <p class="post-excerpt">I create custom rigs for bipedal and quadruped characters using script and UI components for it in Maya's MEL scripting language. The script allows for modular rigging of various body parts independently while incorporating IK/FK switches.
+    I worked as a tech artist on multiple projects in Unreal Engine 4; importing assets generated in Maya to working with animation blueprints and animation sequences. <br>
     <br>
     See <strong><a href="http://umych.com/techart/">Tech Art</a></strong> page for details.</p>
   </div><!-- /.tile -->
   
   <div class="tile-medium">
     <h2 class="post-title">Projects</h2>
-    <p class="post-excerpt">My past projects were part of Game Dev Knights club and classes at University of Central Florida. Teams for each project consisted of 13 - 15 people, consisted of full scale production pipeline and lasted 16 weeks on average. Projects I worked on include: <strong><a href="http://www.umych.com/projects/last-spark/">The Last Spark</a></strong>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, and most recently <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>.<br>
-    <br> 
+    <p class="post-excerpt">My past projects were part of Game Dev Knights club and classes at University of Central Florida. Teams for each project consisted of 13 - 15 people, consisted of full scale production pipeline and lasted 16 weeks on average. Projects I worked on include: <strong><a href="http://www.umych.com/projects/last-spark/">The Last Spark</a></strong>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, and most recently <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>.
   </div><!-- /.tile -->
-  
+
 </div><!-- /.tiles -->  
 
