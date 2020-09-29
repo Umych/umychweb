@@ -29,9 +29,9 @@ image:
   
   <div class="tile-medium">
     <h2 class="post-title">Projects</h2>
-    <p class="post-excerpt">My past projects were part of Game Dev Knights club and classes at University of Central Florida. Teams for each project consisted of 13 - 15 people, consisted of full scale production pipeline and lasted 16 weeks on average. <br>
+    <p class="post-excerpt">My past projects include: <strong><a href="http://www.umych.com/projects/last-spark/">The Last Spark</a></strong>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>, which were part of Game Dev Knights club at University of Central Florida.<br>
     <br>
-    Projects include: <strong><a href="http://www.umych.com/projects/last-spark/">The Last Spark</a></strong>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>, and most recently <strong>Djinni & Thaco: Trial By Spire.</strong>. </p>
+    Most recently I worked Dark Catt Studios as a Cinimatic Character Animator on <strong>Djinni & Thaco: Trial By Spire.</strong>, a VR tower defence game that had been published on Steam. </p>
     
   </div><!-- /.tile -->
 
