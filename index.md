@@ -59,6 +59,7 @@ Most of the animations presented above was completed as a side project outside o
     Most recently I worked at Dark Catt Studios as a Cinimatic Character Animator on <strong>Djinni & Thaco: Trial By Spire</strong>, a VR tower-defence game that had been published on Steam. </p>
     
 >>>>>>> parent of 8f91daf... </p>
+<<<<<<< HEAD
   </div><!-- /.tile -->
 
 </div><!-- /.tiles -->  
@@ -71,6 +72,8 @@ Most of the animations presented above was completed as a side project outside o
     <br>
     Most recently I worked Dark at Catt Studios as a Cinimatic Character Animator on <strong>Djinni & Thaco: Trial By Spire</strong>, a VR tower-defence game that had been published on Steam. </p>
     
+=======
+>>>>>>> parent of f48713b... huy
   </div><!-- /.tile -->
 
 </div><!-- /.tiles -->  
