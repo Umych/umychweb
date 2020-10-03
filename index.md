@@ -7,8 +7,11 @@ image:
 
 <iframe onload="this.width=screen.width;this.height=screen.height;" src="https://player.vimeo.com/video/326663097" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<<<<<<< HEAD
 Most of the animations presented above was completed as a side project outside of work environment. Check Projects page to see my contribution to professional projects.
 
+=======
+>>>>>>> parent of 7b6bc14... CHanges
 <div class="tiles">
 
   <div class="tile-medium">

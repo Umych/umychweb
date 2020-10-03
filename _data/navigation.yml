@@ -10,6 +10,11 @@
   excerpt: "Animation Examples."
   image: sidebar/animation.png
 
+- title: Tech Art
+  url: /techart/
+  excerpt: "Technical Artist Work."
+  image: sidebar/rigging.png
+
 - title: Projects
   url: /projects/
   excerpt: "Past Projects."

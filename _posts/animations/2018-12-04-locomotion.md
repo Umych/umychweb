@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "Locomotion for Anansi"
-categories: animations!
+title: "Locomotion"
+categories: animations
 excerpt: "Movenent animations and blending."
 tags: [animation]
 image:
