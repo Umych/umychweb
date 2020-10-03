@@ -33,3 +33,6 @@ Most of the animations presented above was completed as a side project outside o
     <strong>Remote Work:</strong> have expereince working remotely as a teammemmber in professional setting.<br>
     </p>  
   </div><!-- /.tile -->
+
+</div><!-- /.tiles -->  
+
