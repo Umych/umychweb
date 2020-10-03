@@ -7,21 +7,22 @@ image:
 
 <iframe onload="this.width=screen.width;this.height=screen.height;" src="https://player.vimeo.com/video/326663097" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Most of the animations presented above was completed as a side project outside of work environment. Check Projects page to see my contribution to professional projects.
+Most of the animations presented were completed as a side project outside of work environment. See Projects page for my contribution to professional projects.
 
 <div class="tiles">
 
   <div class="tile-medium">
     <h2 class="post-title">Projects</h2>
-    <p class="post-excerpt">Most recently I worked at Dark Catt Studios as a Cinimatic Character Animator on <strong>Djinni & Thaco: Trial By Spire</strong>, a VR tower-defence game that had been published on Steam.<br>
+    <p class="post-excerpt">Most recently I worked at Dark Catt Studios as a Cinimatic Character Animator on <strong>Djinni & Thaco: Trial By Spire</strong>, a VR tower-defence game that was published on Steam and Viveport.<br>
     <br>
-    My past projects also include: <strong><a href="http://www.umych.com/projects/last-spark/">The Last Spark</a></strong>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, and <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>, which were part of Game Dev Knights club at University of Central Florida.
+    Other projects also include: <strong><a href="http://www.umych.com/projects/last-spark/">The Last Spark</a></strong>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, and <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>, which were part of Game Dev Knights club at University of Central Florida.
     </p>  
   </div><!-- /.tile -->
   
   <div class="tile-medium">
     <h2 class="post-title">Animation</h2>
-    <p class="post-excerpt">While I prefer the feel and style of Motion Capture animation and have professional exxperience working mocap data, most of my background is in Hand Key Animation. This prefference, allows to strife for more subtle, weighted and "realistic" feel of my animation done in Maya, be it Locotion or Facial Animation.<br> 
+    <p class="post-excerpt"><strong>Hand Key:</strong> Proficient at working in 3D environment with multiple characters, cameras and props. Naturally gravitated towards naturalistic, motion capture style of animation. This results in a desire for more subtle, weighted motionm while still following 12 principles of animation.<br> 
+    <strong>Motion Capture:</strong> Professional experience working with motion capture equipment and data. Proficiently in workflow with assets, i.e. cleanup/ edit in MoBu, polish in Maya and export to game angines. Natural passion for performance, acting and character motion. 
     </p>  
   </div><!-- /.tile -->
   
