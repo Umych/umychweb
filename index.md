@@ -5,15 +5,14 @@ image:
   feature: index_bg.jpg
 ---
 
-<iframe onload="this.width=screen.width;this.height=screen.height;" src="https://player.vimeo.com/video/326663097" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Most of the animations presented were completed as bruh a side project outside of work environment. See Projects page for my contribution to professional projects.
+Primarially focusing on animation for video games I specialize in both handkey and mocap data. I currently work at 2K Mocap as a Junior Motion Capture Animator. Resposibilities, depending on the project, range from markering-up talent, creating ROMs and working with talent on stage to cleaning marker data, retarger and motion edit final animations.
 
 <div class="tiles">
 
   <div class="tile-medium">
     <h2 class="post-title">Projects</h2>
-    <p class="post-excerpt">Most recently I worked at Dark Catt Studios as a Cinimatic Character Animator on <strong>Djinni & Thaco: Trial By Spire</strong>, a VR tower-defence game that was published on Steam and Viveport.<br>
+    <p class="post-excerpt">Recently I had a chance to take part in developing all major 2K's IPs, icluding NBA, WWE, PGA, Marle's: Midnight Suns and a few unannounced projects. <br>
+    Additionally, I worked at start-up Dark Catt Studios as a Cinematic Character Animator on <strong>Djinni & Thaco: Trial By Spire</strong>, a VR tower-defence game that was published on Steam and Viveport.<br>
     <br>
     Other projects also include: <strong><a href="http://www.umych.com/projects/last-spark/">The Last Spark</a></strong>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, and <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>, which were part of Game Dev Knights club at University of Central Florida.
     </p>  
@@ -36,4 +35,8 @@ Most of the animations presented were completed as bruh a side project outside o
   </div><!-- /.tile -->
 
 </div><!-- /.tiles -->  
+
+Most of the animations presented were completed as bruh a side project outside of work environment. See Projects page for my contribution to professional projects.
+
+<iframe onload="this.width=screen.width;this.height=screen.height;" src="https://player.vimeo.com/video/326663097" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
