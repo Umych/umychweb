@@ -30,7 +30,7 @@ Primarially focusing on animation for video games, I specialize in both hand key
   <div class="tile-medium">
     <h2 class="post-title">Supplementary Skills</h2>
     <p class="post-excerpt">
-    <strong>Programming:</strong> working experience in Python and MEL, strong knowledge of programming pronciples;
+    <strong>Programming:</strong> working experience in Python and MEL, strong knowledge of programming pronciples;<br>
     <strong>Rigging:</strong> firm understanding of rigging processes, experience working with biped and quadruped characters;<br>
     <strong>Game Engines:</strong> professional experience working with Unreal, experience implementing animation assets and working with blueprints;<br>
     <strong>Remote Work:</strong> have expereince working remotely as a teammember in professional setting.<br>
