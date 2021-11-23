@@ -2,20 +2,15 @@
 
 - title: Home
   url: /
-  excerpt: "Back to Main Page."
+  excerpt: "Back to Main Page"
   image: sidebar/home.png
-
-- title: Animations
-  url: /animations/
-  excerpt: "Animation Examples."
-  image: sidebar/animation.png
 
 - title: Projects
   url: /projects/
-  excerpt: "Past Projects."
+  excerpt: "Past Projects"
   image: sidebar/projects.png  
 
 - title: Contact
   url: /contact/
-  excerpt: "Contact Denys."
+  excerpt: "Contact Denys"
   image: sidebar/contact.png
