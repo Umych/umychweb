@@ -24,7 +24,7 @@ image:
 
 # Project Website
 
-http://themonkeysuite.com/darkfall/index.html
+<strong> [Link](http://themonkeysuite.com/darkfall/index.html)</strong>
 
 ___
 

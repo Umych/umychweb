@@ -13,9 +13,9 @@ Primarially focusing on animation for video games, I specialize in both hand key
     <h2 class="post-title">Projects</h2>
     <p class="post-excerpt">
     Currently I take part in developing all major 2K's IPs, icluding NBA, WWE, PGA, Marvel's: Midnight Suns and a few unannounced projects. <br>
-    Additionally, I worked at start-up Dark Catt Studios as a Cinematic Character Animator on <strong>Djinni & Thaco: Trial By Spire</strong>, a VR tower-defence game that was published on Steam and Viveport.<br>
+    Before, I worked at start-up Dark Catt Studios as a Cinematic Character Animator on <strong>Djinni & Thaco: Trial By Spire</strong>, a VR tower-defence game that was published on Steam and Viveport.<br>
     <br>
-    Other projects also include a range of small-scale indie projects, which were part of Game Dev Knights club at University of Central Florida. <strong><a href="http://www.umych.com/projects/last-spark/">The Last Spark</a></strong>, <strong><a href="http://www.umych.com/projects/anansi/">Kwaku Anansi</a></strong>, and <strong><a href="http://www.umych.com/projects/reaver/">Reaver</a></strong>, w
+    Additionally, I contributed to pre-production of independent movie at Mokey Suite. Similarly, druing my time at Game Dev Knights club at University of Central Florida I created animations for multiple indie games: The Last Spark, Kwaku Anansi, and Reaver.
     </p>
   </div><!-- /.tile -->
   
