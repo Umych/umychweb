@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: index_bg.jpeg
+  feature: index_bg.jpg
 ---
 
 Primarially focusing on animation for video games, I specialize in both hand key and mocap data. I currently work at 2K Mocap as a Junior Motion Capture Animator. Resposibilities comprise all stages on the production, and the goal is to deliver animation that is ready for game engines. Depending on the project I contribute by markering-up and working with talent on stage, capturing ROMs and creating VSKs to cleaning marker data, retarger and motion edit final animations. 
