@@ -42,4 +42,3 @@ Primarially focusing on animation for video games, I specialize in both hand key
 Most of the animations presented were completed as a side projects outside of professional work environment. See Projects page for my contribution to professional projects.
 
 <iframe onload="this.width=screen.width;this.height=screen.height;" src="https://player.vimeo.com/video/326663097" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
