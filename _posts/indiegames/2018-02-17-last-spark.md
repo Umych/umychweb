@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "The Last Spark"
-categories: projects
+categories: indiegames
 excerpt: "Platformer"
 modified: 2016-06-01T16:28:57-04:00
 image:
