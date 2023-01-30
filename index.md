@@ -15,8 +15,6 @@ Currently being a part of Call of Duty francies at Raven Software, I specialize 
     I took part in developing all major 2K's mainlign video games, icluding <strong>2KNBA, WWE, PGA, Marvel's: Midnight Suns, Tiny Tina's Wonderlands</strong> and many other. <br>
     Worked on a feature films at TV-series at ScanLine VFX. Contributed by processing volumetric Motion Capture and editing it in Maya, along with facial animation using FaceWare. Projects include <strong>Black Adam, Aquaman 2, Flash tv series.</strong> <br>
     I worked at start-up Dark Catt Studios as a Cinematic Character Animator on <strong>Djinni & Thaco: Trial By Spire</strong>, a VR tower-defence game that was published on Steam and Viveport.<br>
-    <br>
-    I contributed to pre-production of independent movie at Mokey Suite. Similarly, druing my time at Game Dev Knights club, I created animations for multiple indie games: The Last Spark, Kwaku Anansi, and Reaver.
     </p>
   </div><!-- /.tile -->
   
