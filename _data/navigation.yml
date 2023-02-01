@@ -10,6 +10,11 @@
   excerpt: "Past Projects"
   image: sidebar/projects.jpg  
 
+title: Credits
+  url: /credits/
+  excerpt: "Credited Titles"
+  image: sidebar/projects.jpg  
+
 - title: Contact
   url: /contact/
   excerpt: "Contact Denys"
